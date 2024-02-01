@@ -1,0 +1,20 @@
+<svg width="944" height="944" viewBox="0 0 944 944" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="constructionSign">
+<g id="warningPlate">
+<path id="Polygon 1" d="M413.976 100.5C439.765 55.8334 504.235 55.8333 530.024 100.5L822.74 607.5C848.529 652.167 816.293 708 764.717 708H179.284C127.707 708 95.4714 652.167 121.26 607.5L413.976 100.5Z" fill="#449955"/>
+<path id="Polygon 2" d="M413.976 148.5C439.765 103.833 504.235 103.833 530.024 148.5L781.171 583.5C806.959 628.167 774.724 684 723.147 684H220.853C169.276 684 137.041 628.167 162.829 583.5L413.976 148.5Z" fill="#F4CE14"/>
+</g>
+<g id="worker">
+<path id="Polygon 3" d="M740.005 595.432C748.686 604.701 742.64 619.89 729.964 620.658L545.726 631.825C534.754 632.491 526.817 621.518 530.882 611.306L588.95 465.418C593.015 455.205 606.321 452.688 613.835 460.711L740.005 595.432Z" fill="black"/>
+<ellipse id="Ellipse 1" cx="499.5" cy="319" rx="41.5" ry="42" fill="black"/>
+<line id="Line 7" x1="476.397" y1="368.478" x2="418.218" y2="481.511" stroke="black" stroke-width="100"/>
+<line id="Line 8" x1="434.563" y1="360.365" x2="345.633" y2="376.156" stroke="black" stroke-width="30"/>
+<line id="Line 11" x1="534.353" y1="525.446" x2="505.353" y2="394.237" stroke="black" stroke-width="30"/>
+<line id="Line 12" x1="341.669" y1="615.569" x2="388.669" y2="463.569" stroke="black" stroke-width="30"/>
+<line id="Line 9" x1="308.846" y1="455.228" x2="356.22" y2="368.791" stroke="black" stroke-width="30"/>
+<line id="Line 13" x1="461.195" y1="648.809" x2="487.88" y2="562.519" stroke="black" stroke-width="30"/>
+<line id="Line 14" x1="434.433" y1="493.608" x2="489.58" y2="575.305" stroke="black" stroke-width="30"/>
+<line id="Line 10" x1="274.321" y1="424.388" x2="574.321" y2="542.388" stroke="black" stroke-width="40"/>
+</g>
+</g>
+</svg>
