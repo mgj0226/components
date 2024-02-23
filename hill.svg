@@ -1,0 +1,6 @@
+<svg width="1440" height="841" viewBox="0 0 1440 841" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="hill">
+<path id="hillBack" fill-rule="evenodd" clip-rule="evenodd" d="M1440.21 366.306L972.101 0L314 841H1440.21V366.306Z" fill="#143D0C"/>
+<path id="hillFront" fill-rule="evenodd" clip-rule="evenodd" d="M0 841H966.324L442.602 20L0 302.339V841Z" fill="#0D2808"/>
+</g>
+</svg>
